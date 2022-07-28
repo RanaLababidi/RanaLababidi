@@ -12,13 +12,13 @@ header {
 }
 h2{
 	color:#d43cd7;
-	font-family:"Time New Roman ";
+	font-family: Helvetica;
 	font-size: 200%;
 
 }
 body{
 	font-family:Monospace;
-	  background-color:#f0baff;
+	  background-color:#d983e187;
 }
 details{
 	font-style: italic;
@@ -27,5 +27,5 @@ summary {
 	font-style: normal;
 }
 footer{
-	background:  #f37af569;
+	font-family:Monospace;
 }
