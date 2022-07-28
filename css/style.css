@@ -1,0 +1,31 @@
+h1{
+	color:#9f0593;
+    background:#f37af5bf;
+    text-align: center;
+    font-family:"Time New Roman ";
+    font font-variant:small-caps;
+    font-size: 400%;
+    line-height: 50%;
+}
+header {
+	text-align: center;
+}
+h2{
+	color:#d43cd7;
+	font-family:"Time New Roman ";
+	font-size: 200%;
+
+}
+body{
+	font-family:Monospace;
+	  background-color:#f0baff;
+}
+details{
+	font-style: italic;
+}
+summary {
+	font-style: normal;
+}
+footer{
+	background:  #f37af569;
+}
