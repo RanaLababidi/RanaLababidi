@@ -7,6 +7,7 @@ h1{
     font-size: 400%;
     line-height: 50%;
 }
+
 header {
 	text-align: center;
 }
@@ -16,16 +17,14 @@ h2{
 	font-size: 200%;
 
 }
-body{
-	font-family:Papyrus;
-	  background-color:#f0baff;
-}
+
 details{
 	font-style: italic;
 }
 summary {
 	font-style: normal;
 }
-footer{
-	background:  #f37af569;
+body{
+	font-family:Papyrus;
+	  background-color:#f0baff;
 }
