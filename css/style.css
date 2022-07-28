@@ -17,7 +17,7 @@ h2{
 
 }
 body{
-	font-family:Papyrus,"Lucida Console"," "Courier New",Monaco;
+	font-family:Papyrus;
 	  background-color:#f0baff;
 }
 details{
@@ -27,5 +27,5 @@ summary {
 	font-style: normal;
 }
 footer{
-	font-family:Monospace;
+	background:  #f37af569;
 }
