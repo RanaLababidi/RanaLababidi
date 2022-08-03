@@ -1,12 +1,12 @@
 body
 {
-	background: #B3B3B3;
+	background: #c2c2d6;
 	font-size: 125%;
 	margin:3%;
 }
 header{
 	background: #666666;
-	background: -webkit-linear-gradient(#666666 0%, #00b7ea 100%);
+	background: -webkit-linear-gradient(#001a33 0%, #0099e6 100%);
 	text-align: center;
     padding-bottom: 15px;
 }
@@ -27,8 +27,8 @@ h1 {
 	color:#ffffff;
 }
 h2{
-	color: #666666;
-	background: #00b7ea;
+	color:#0059b3;
+	background: #99ccff;
 }
 
 .half{
