@@ -1,6 +1,6 @@
 body
 {
-	background: #c2c2d6;
+	background: #99ccff;
 	font-size: 125%;
 	margin:3%;
 }
@@ -27,8 +27,8 @@ h1 {
 	color:#ffffff;
 }
 h2{
-	color:#0059b3;
-	background: #99ccff;
+	color:#ffffff;
+	background:#0099e6;
 }
 
 .half{
