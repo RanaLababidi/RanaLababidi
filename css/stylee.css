@@ -1,54 +1,122 @@
-body
-{
-	background:#cceeff;
-	font-size: 125%;
-	margin:3%;
-}
+
 header{
-	background: #666666;
-	background: -webkit-linear-gradient(#001a33 0%, #0099e6 100%);
-	text-align: center;
-    padding-bottom: 15px;
+background:#d6d6c2;
+background-image: url("flywheel.jpg");
+padding-bottom:10%;
+background-repeat: no-repeat;
+background-size: cover;
+text-align: center;
+padding-bottom: 15px;
+
+}
+body{
+  font-family: Arial;
+  margin: 2%;
+  background:#c2c2a3;
+}
+nav{
+  font-variant: small-caps;
+  font-family: Arial, "Times New Roman", serif;
+  font-size: 150%;
 }
 
+nav a{
+  display: inline-block;
+  width:20%;
+  border: 20;
+  text-decoration:none;
+    background:#ffffff45;;
+    border-radius: 25px;
+    padding-top:2%;
+    padding-bottom:2%;
+    color:#000000;
 
- nav{
- 	font-variant: small-caps;
- 	font-family: Arial;
- 	font-size: 150%;
  }
- nav a{
- 	display: inline-block;
- 	background-color: #ffffff;
-	width:22%;
+a:hover {
+  background:#ffffff;
+}
+a:fouce {
+  background:#ffffff;
+}
+h1{
+  font-size:60px ;
+  font-family:serif;
+  text-align: center;
+  color:#ffffff;
+}
+
+
+aside ,section {
+  display: inline-block;
+  margin-right:1%;
+  font-family:Arial,Verdana,Helvetica;
+
+}
+
+.right{
+  width: 77%;
+  float:right;
+}
+
+table{
+   margin-left:10%;
+     margin-right: 10%;
+     width: 70%;
+   font-size:90%;
+   font-family:  cursive;
  }
 
-h1 {
-	color:#ffffff;
-}
-h2{
-	color:#ffffff;
-	background:#0099e6;
+td,th{
+  padding:10px;
+
 }
 
-.half{
-	width:45%;
-	margin-right: 2%;
-	display:inline-block;
-	float:left;
+td {
+  text-align:center;
+  background: #9f9f87;
+   border:1px solid;
+  border-color:#c2c2a3;
 }
 
-.whole{
-	clear:both;
+tbody>tr>:nth-child(1){
+ text-align:left;
+}
+tr:hover { background-color :#53c6538c }
+td:hover { background-color :  #53c6538c}
+
+th{
+  background-color: #446600;
+  background: -webkit-linear-gradient(#446600 14%,#53c653 150%);
+  color: #ffffff;
+  font-family: serif;
+  border-color: #446600c7;
+   border:1px solid;
 }
 
-summary{
-	font-style:normal;
-}
+.right>p{
+  font-family:  cursive;
 
-details{
-	font-style: italic;
 }
-footer{
-	display: none;
+.right>h2{
+  font-family:serif;
+}
+.left{
+  background:#446600;
+  width:20%;
+  float: left;
+  height: 100%;
+  padding-bottom:2%;
+}
+img{ 
+  border-radius: 8px;
+  clear: both;
+  border:solid;
+  border-color:#f0f3ed00;
+    width:80%;
+    height: 90%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+
 }
