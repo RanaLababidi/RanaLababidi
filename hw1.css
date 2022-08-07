@@ -15,16 +15,16 @@ body{
   background:#c2c2a3;
 }
 nav{
-	font-variant: small-caps;
-	font-family: Arial, "Times New Roman", serif;
-	font-size: 150%;
+  font-variant: small-caps;
+  font-family: Arial, "Times New Roman", serif;
+  font-size: 150%;
 }
 
 nav a{
-	display: inline-block;
-	width:20%;
-	border: 20;
-	text-decoration:none;
+  display: inline-block;
+  width:20%;
+  border: 20;
+  text-decoration:none;
     background:#ffffff45;;
     border-radius: 25px;
     padding-top:2%;
@@ -36,39 +36,41 @@ a:hover {
   background:#ffffff;
 }
 a:fouce {
-	background:#ffffff;
+  background:#ffffff;
 }
 h1{
-	font-size:60px ;
-	font-family:serif;
-	text-align: center;
-	color:#ffffff;
+  font-size:60px ;
+  font-family:serif;
+  text-align: center;
+  color:#ffffff;
 }
 
 
 aside ,section {
-	display: inline-block;
-	margin-right:1%;
-	font-family:Arial,Verdana,Helvetica;
+  display: inline-block;
+  margin-right:1%;
+  font-family:Arial,Verdana,Helvetica;
 
 }
 
 .right{
-	width: 77%;
-	float:right;
+  width: 77%;
+  float:right;
 }
 
 table{
-	 margin-left:10%;
+   margin-left:10%;
      margin-right: 10%;
      width: 70%;
-	 font-size:90%;
-	 font-family:  cursive;
+   font-size:90%;
+   font-family:  cursive;
  }
+
 td,th{
   padding:10px;
 
 }
+
 td {
   text-align:center;
   background: #9f9f87;
@@ -79,32 +81,37 @@ td {
 tbody>tr>:nth-child(1){
  text-align:left;
 }
+tr:hover { background-color :#53c6538c }
+td:hover { background-color :  #53c6538c}
+
+th{
+  background-color: #446600;
+  background: -webkit-linear-gradient(#446600 14%,#53c653 150%);
+  color: #ffffff;
+  font-family: serif;
+  border-color: #446600c7;
+   border:1px solid;
+}
+
 .right>p{
-	font-family:  cursive;
+  font-family:  cursive;
 
 }
 .right>h2{
-	font-family:serif;
-}
-th{
-	background-color: #446600;
-	color: #ffffff;
-	font-family: serif;
-	border-color: #446600c7;
-	 border:1px solid;
+  font-family:serif;
 }
 .left{
-	background:#446600;
-	width:20%;
-	float: left;
-	height: 100%;
-	padding-bottom:2%;
+  background:#446600;
+  width:20%;
+  float: left;
+  height: 100%;
+  padding-bottom:2%;
 }
 img{ 
-	border-radius: 8px;
-	clear: both;
-	border:solid;
-	border-color:#f0f3ed00;
+  border-radius: 8px;
+  clear: both;
+  border:solid;
+  border-color:#f0f3ed00;
     width:80%;
     height: 90%;
     margin-left: 10%;
